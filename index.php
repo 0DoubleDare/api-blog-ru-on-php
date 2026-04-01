@@ -1,5 +1,5 @@
 <?php
-// https://api.blog.ru/
+// https://localhost/api.blog.ru/
 header("Content-type: application/json");
 require 'connect.php';
 require 'models/model.php';
